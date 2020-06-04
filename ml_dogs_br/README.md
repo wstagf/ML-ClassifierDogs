@@ -1,6 +1,6 @@
-# ml_dogs_br
+# Machine Learning for Detect Races Dogs
 
-A new Flutter project.
+I used Tensorflow + Flutter
 
 ## Getting Started
 
