@@ -1,0 +1,13 @@
+0 Bulldog
+1 Golden
+2 Labrador
+3 Lulu da Pomerânia
+4 Maltês
+5 Pastor Alemão
+6 Pinscher
+7 Poodle
+8 Pug
+9 Rottweiler
+10 Shih Tzu
+11 Yorkshire Terrier
+12 Vira lata
